@@ -19,7 +19,6 @@ function save() {
     countEl.innerText = count;
 }
 
-let num1 = prompt("Please enter a number");
 function evenOrOdd() {
     if (num1%2 == 0) {
         alert("The number is even");
